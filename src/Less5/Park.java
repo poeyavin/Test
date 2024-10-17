@@ -20,10 +20,10 @@ public class Park {
             System.out.println("Cost: " + cost + " Руб");
         }
     }
-    public static void main(String[] args) {
-        Park park = new Park("Park");
-        Attraction attractionOne = park.new Attraction("Attraction1", "10:00 - 14:00", 20);
-        attractionOne.printInfo();
-    }
+    //public static void main(String[] args) {
+     //   Park park = new Park("Park");
+      //  Attraction attractionOne = park.new Attraction("Attraction1", "10:00 - 14:00", 20);
+       // attractionOne.printInfo();
 }
+
 

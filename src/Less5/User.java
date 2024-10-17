@@ -22,9 +22,8 @@ package Less5;
                     + " Phone: " + phone  + " Salary: " + salary  + " Age: " + age);
         }
 
-        public static void main(String[] args) {
-            User user = new User("Ivan", "manager", "poeyavin", "39757", 3000, 24 );
-            user.info();
+        //public static void main(String[] args) {
+            //User user = new User("Ivan", "manager", "poeyavin", "39757", 3000, 24 );
+            //user.info();
 
-        }
     }
