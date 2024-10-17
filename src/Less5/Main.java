@@ -2,8 +2,8 @@ package Less5;
 
 public class Main {
     public static void main(String[] args) {
-        park ();
-        user ();
+        park();
+        user();
 
         User[] array = new User[6];
         User user = new User("Ivan", "manager", "poeyavin", "39757", 3000, 24);
